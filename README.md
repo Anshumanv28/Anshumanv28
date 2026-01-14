@@ -6,16 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anshumanv28" alt="anshumanv28" />
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanv28" alt="anshumanv28" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on [my-portfolio](https://github.com/Anshumanv28/my-portfolio)
+- 🔭 I'm currently working on **A.R.T.E.M.I.S**
 
 - 🌱 I'm currently learning **React, DevOps, Linux**
 
@@ -158,18 +156,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshumanv28&show_icons=true&locale=en&layout=compact" alt="anshumanv28" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshumanv28&show_icons=true&locale=en&layout=compact&theme=default&hide_border=false" alt="anshumanv28" />
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanv28&theme=default&hide_border=false" alt="anshumanv28" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshumanv28&show_icons=true&locale=en&layout=compact" alt="anshumanv28" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshumanv28&show_icons=true&locale=en" alt="anshumanv28" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanv28&" alt="anshumanv28" />
+</p>
 
 ---
 
 ## 🎯 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanv28&theme=github-compact&hide_border=false" alt="GitHub Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanv28&theme=github-compact&hide_border=false" alt="anshumanv28" />
+</p>
