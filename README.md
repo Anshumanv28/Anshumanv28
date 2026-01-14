@@ -156,14 +156,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshumanv28&show_icons=true&locale=en&layout=compact" alt="anshumanv28" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshumanv28&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanv28&layout=compact&langs_count=8"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshumanv28&show_icons=true&locale=en" alt="anshumanv28" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanv28&" alt="anshumanv28" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanv28" alt="anshumanv28" />
+</div>
 
 ---
 
