@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshuman Mishra</h1>
-<h3 align="center">Full-stack & AI engineer building production-ready systems</h3>
+<h3 align="center">AI Engineer | Agentic AI & RAG Systems | Full-stack & Backend Foundation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshumanv28&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanv28" />
@@ -15,12 +15,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently building **A.R.T.E.M.I.S** – a multimodal AI agent framework (RAG + tools + memory) designed to integrate with real-world products.
-- 🌱 I'm currently deepening my skills in **LLM systems, distributed backend architectures, and DevOps (Docker, CI/CD, Linux)**.
-- 👯 I'm looking to collaborate on **AI/ML backends, RAG systems, and high-impact full-stack products** (including projects like [Dev-Encyclopedia](https://github.com/Buzzpy/Dev-Encyclopedia)).
+- 🔭 I'm currently building **A.R.T.E.M.I.S** – a multi-agent RAG framework (LangGraph Supervisor pattern, Qdrant, tool calling) and **AI_Concierge** – an LLM voice-agent (LiveKit + OpenAI GPT).
+- 🌱 I'm currently deepening my skills in **MCP (Model Context Protocol), agent evaluation & tracing, and LLM orchestration**.
+- 👯 I'm looking to collaborate on **agentic AI, RAG systems, and applied LLM products** (including projects like [Dev-Encyclopedia](https://github.com/Buzzpy/Dev-Encyclopedia)).
 - 👨‍💻 All of my projects live here: [github.com/anshumanv28](https://github.com/anshumanv28)
 - 📝 I write about development, AI, and tooling on [dev.to/anshuman_mishra_v36](https://dev.to/anshuman_mishra_v36)
-- 💬 Ask me about **Node.js, TypeScript, Dart/Flutter, React, backend architecture, and Linux dev workflows**.
+- 💬 Ask me about **LangChain/LangGraph, RAG, AI agents, Node.js, backend architecture**.
 - 📫 Reach me at **anshumanmishra.v.2.8@gmail.com**
 - ⚡ Fun fact: **I talk to my code like it's going to respond someday – still waiting for a `console.log("hi")` back.**
 
@@ -28,12 +28,12 @@
 
 ## 🚀 Featured Work
 
-- 🧠 **A.R.T.E.M.I.S** – Adaptive multimodal AI agent framework with RAG, tools from YAML/OpenAPI, Qdrant memory, DSPy, LangGraph, Groq, and LiveKit.
+- 🧠 **A.R.T.E.M.I.S** – Multi-agent RAG framework: LangGraph Supervisor pattern, 3 specialized sub-agents, Qdrant vector store, tool calling, Docker-deployed with a live AWS demo.
+- 🎙️ **AI_Concierge** – LLM voice-booking agent: LiveKit voice-agent framework + OpenAI GPT tool calling on a full-stack MERN backend.
+- 📄 **Table Reconstruction / OCR** – Document understanding and table-structure reconstruction pipeline from my applied AI work at Bhashini.
 - 🏠 **Property Ganj** – Real-estate platform (full-stack TypeScript, production-style architecture and deployments).
-- 📚 **Study Boards** – Productivity app for organizing learning and tasks, built with a modern TypeScript/React stack.
-- 📄 **Table Reconstruction / OCR** – Document understanding and reconstruction pipelines from my applied AI work.
 
-> I’m actively looking for **Backend / Full-stack / AI Engineer** roles and impactful collaborations.
+> I'm actively looking for **AI Engineer (Agentic AI / RAG)** roles and impactful collaborations.
 
 ---
 
@@ -57,6 +57,19 @@
 ---
 
 ## 🛠️ Tech Stack
+
+### AI / Agentic AI
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+</p>
+
+LangChain · LangGraph (multi-agent orchestration) · RAG pipelines · OpenAI GPT (tool/function calling) · Qdrant (vector search) · OCR (Tesseract, Docling, TableFormer) · ASR/TTS/MT
 
 ### Frontend
 
@@ -153,7 +166,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-> If this stays empty for a while, I’ll either wire it up properly or remove the section – shipping code takes priority. 😄
+> If this stays empty for a while, I'll either wire it up properly or remove the section – shipping code takes priority. 😄
 
 ---
 
