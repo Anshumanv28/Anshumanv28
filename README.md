@@ -31,7 +31,7 @@
 - 🧠 **A.R.T.E.M.I.S** – Multi-agent RAG framework: LangGraph Supervisor pattern, 3 specialized sub-agents, Qdrant vector store, tool calling, Docker-deployed with a live AWS demo.
 - 🎙️ **AI_Concierge** – LLM voice-booking agent: LiveKit voice-agent framework + OpenAI GPT tool calling on a full-stack MERN backend.
 - 📄 **Table Reconstruction / OCR** – Document understanding and table-structure reconstruction pipeline from my applied AI work at Bhashini.
-- 🏠 **Property Ganj** – Real-estate platform (full-stack TypeScript, production-style architecture and deployments).
+- 📦 **[Natours](https://github.com/Anshumanv28/Natours)** – Solo Node.js backend project: JWT-authenticated REST API (99% success rate), Pug templating, MongoDB.
 
 > I'm actively looking for **AI Engineer (Agentic AI / RAG)** roles and impactful collaborations.
 
