@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently building **A.R.T.E.M.I.S** – a multi-agent RAG framework (LangGraph Supervisor pattern, Qdrant, tool calling) and **AI_Concierge** – an LLM voice-agent (LiveKit + OpenAI GPT).
-- 🌱 I'm currently deepening my skills in **MCP (Model Context Protocol), agent evaluation & tracing, and LLM orchestration**.
+- 🌱 I recently shipped an **MCP server (least-privilege tool scopes) and an automated agent-evaluation harness** (routing/tool-selection accuracy, cost & latency tracking) for A.R.T.E.M.I.S, and I'm now going deeper on production LLM orchestration and observability.
 - 👯 I'm looking to collaborate on **agentic AI, RAG systems, and applied LLM products** (including projects like [Dev-Encyclopedia](https://github.com/Buzzpy/Dev-Encyclopedia)).
 - 👨‍💻 All of my projects live here: [github.com/anshumanv28](https://github.com/anshumanv28)
 - 📝 I write about development, AI, and tooling on [dev.to/anshuman_mishra_v36](https://dev.to/anshuman_mishra_v36)
@@ -28,7 +28,7 @@
 
 ## 🚀 Featured Work
 
-- 🧠 **A.R.T.E.M.I.S** – Multi-agent RAG framework: LangGraph Supervisor pattern, 3 specialized sub-agents, Qdrant vector store, tool calling, Docker-deployed with a live AWS demo.
+- 🧠 **A.R.T.E.M.I.S** – Multi-agent RAG platform: LangGraph Supervisor pattern routing to 3 specialist sub-agents, an MCP server exposing tools with least-privilege scopes, and an automated agent-evaluation harness (routing/tool-selection accuracy, cost & latency tracking); CI-tested, Docker-deployed with a live AWS demo + React chat frontend.
 - 🎙️ **AI_Concierge** – LLM voice-booking agent: LiveKit voice-agent framework + OpenAI GPT tool calling on a full-stack MERN backend.
 - 📄 **Table Reconstruction / OCR** – Document understanding and table-structure reconstruction pipeline from my applied AI work at Bhashini.
 - 📦 **[Natours](https://github.com/Anshumanv28/Natours)** – Solo Node.js backend project: JWT-authenticated REST API (99% success rate), Pug templating, MongoDB.
