@@ -29,7 +29,7 @@
 ## 🚀 Featured Work
 
 - 🧠 **A.R.T.E.M.I.S** – Multi-agent RAG platform: LangGraph Supervisor pattern routing to 3 specialist sub-agents, citation-grounded answers with missing-context flags to mitigate hallucination, an MCP server exposing tools with least-privilege scopes, and an automated agent-evaluation harness (routing/tool-selection accuracy, cost & latency tracking); CI-tested, Docker-deployed with a live AWS demo + React chat frontend.
-- 🎙️ **AI_Concierge** – LLM voice-booking agent: LiveKit voice-agent framework + OpenAI GPT tool calling on a full-stack MERN backend.
+- 🎙️ **AI_Concierge** – LLM voice-booking agent: LiveKit real-time voice + OpenAI GPT tool calling, grounded availability/booking logic, and a persistent chat-history dashboard; solved unreliable LLM function-calling for self-referential actions (call-ending, mic control) via an isolated structured-decision LLM call; CI-tested (GitHub Actions), Docker-deployed with images pushed to GHCR on every merge.
 - 📄 **Table Reconstruction / OCR** – Document understanding and table-structure reconstruction pipeline from my applied AI work at Bhashini.
 - 📦 **[Natours](https://github.com/Anshumanv28/Natours)** – Solo Node.js backend project: JWT-authenticated REST API (99% success rate), Pug templating, MongoDB.
 
